@@ -1,0 +1,10 @@
+diff --git a/arch/arm/dts/Makefile b/arch/arm/dts/Makefile
+--- a/arch/arm/dts/Makefile
++++ b/arch/arm/dts/Makefile
+@@ -141,5 +141,6 @@ dtb-$(CONFIG_ROCKCHIP_RK3399) += \
+ 	rk3399-evb.dtb \
+ 	rk3399-ficus.dtb \
+ 	rk3399-firefly.dtb \
++	rk3399-fine3399.dtb \
+ 	rk3399-gru-bob.dtb \
+ 	rk3399-gru-kevin.dtb \
